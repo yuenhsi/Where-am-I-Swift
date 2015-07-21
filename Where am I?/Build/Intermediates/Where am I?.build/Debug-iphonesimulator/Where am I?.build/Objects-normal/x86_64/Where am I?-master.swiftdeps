@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "3c11c0937eca5d5f7c838120b69a1ca5"
+inputs: 
+- "/Users/yg/Desktop/Learning iOS/Where am I?/Where am I?/ViewController.swift"
+- "/Users/yg/Desktop/Learning iOS/Where am I?/Where am I?/AppDelegate.swift"

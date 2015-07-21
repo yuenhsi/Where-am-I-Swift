@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "17abc8915bdab9d3dc3502dfe3abe7ea"
+inputs: 
+- "/Users/yg/Desktop/Learning iOS/Where am I?/Where am I?Tests/Where_am_I_Tests.swift"
